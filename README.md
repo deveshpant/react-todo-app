@@ -8,7 +8,7 @@ A minimalistic, customisable todo app.
 
 ## Features
 
-- Dark mode is dp on
+- Dark mode
 - Drag n drop tasks to reorder them
 - Tasks saved locally
 - Customisable task color
