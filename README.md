@@ -15,6 +15,7 @@ A minimalistic, customisable todo app.
 - Edit task
 - Notification Box
 - Tablet & mobile friendly
+- test
 
 ## Built with
 
